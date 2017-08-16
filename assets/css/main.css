@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    outline: 1px solid black;
+}
+.padre{
+    background-color: peru;
+    width: 400px;
+    border: 15px solid green;
+    padding: 15px;
+    margin: 15px;
+}
+.hijo{
+  
+    border-style: dashed;
+    padding: 15px;
+     background-color: white;  
+     margin: 15px; 
+}
